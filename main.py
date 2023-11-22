@@ -1,6 +1,7 @@
 
-def print_hi(name):
-    print(f'Hi, {name}')
+print("Hello git!")
 
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def f(x):
+    return x ** 2
+
+print(f(4))
